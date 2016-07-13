@@ -7,4 +7,4 @@ simple youtube clone with optimized search
  
 ### Note
 In order to run the app API key is needed
-API_KEY is removed on from [main.js](https://github.com/rumanbsl/React-youtube/blob/master/src/main.js), get yours from [here](https://console.developers.google.com/apis)
+API_KEY is removed from [main.js](https://github.com/rumanbsl/React-youtube/blob/master/src/main.js), get yours from [here](https://console.developers.google.com/apis)
