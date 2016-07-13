@@ -2,7 +2,7 @@
 import React, {Component} from 'react';
 import {render} from 'react-dom';
 import _ from 'lodash';
-const API_KEY = 'AIzaSyDieNpljtZPPiEcV54_nkmiF_QGl2knnEw';
+const API_KEY = '';
 import '../style.css';
 import utube from 'youtube-api-search';
 
